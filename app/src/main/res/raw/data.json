@@ -1,0 +1,49 @@
+{
+  "id": 1,
+  "title": "Hello room embedded",
+  "content": {
+    "details": "Hello room embedded details...",
+    "cover": "http://127.0.0.1/api/v1/image/cover.jpg",
+    "images": [
+      {
+        "id": 1,
+        "url": "http://127.0.0.1/api/v1/image/image-1.jpg",
+        "description": "Description 1"
+      },
+      {
+        "id": 3,
+        "url": "http://127.0.0.1/api/v1/image/image-2.jpg",
+        "description": "Description 2"
+      },
+      {
+        "id": 4,
+        "url": "http://127.0.0.1/api/v1/image/image-3.jpg",
+        "description": "Description 3"
+      },
+      {
+        "id": 5,
+        "url": "http://127.0.0.1/api/v1/image/image-4.jpg",
+        "description": "Description 4"
+      },
+      {
+        "id": 6,
+        "url": "http://127.0.0.1/api/v1/image/image-5.jpg",
+        "description": "Description 5"
+      }
+    ]
+  },
+  "telephone": [
+    {
+      "icon": "http://127.0.0.1/api/v1/image/call-1.png",
+      "number": "087-234-6754"
+    },
+    {
+      "icon": "http://127.0.0.1/api/v1/image/call-3.png",
+      "number": "083-234-6759"
+    },
+    {
+      "icon": "http://127.0.0.1/api/v1/image/call-3.png",
+      "number": "085-234-6757"
+    }
+  ]
+}
